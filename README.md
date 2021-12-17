@@ -42,7 +42,7 @@
 
 ### 📆 history
 - 2021
-  - Software Maestro 12th
+  - [Software Maestro 12th](https://www.swmaestro.org/sw/main/main.do)
 
 ### 🖥 project
 - 2021
