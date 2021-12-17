@@ -50,6 +50,7 @@
 ### 🖥 project
 - 2021
   - [i-mind](https://github.com/maison01006/i-mind-backend) (AI를 활용한 부모-아이 놀이영상 분석 기반 심리상담센터용 SaaS 플랫폼)
+    - <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>&nbsp;&nbsp;
   - [logsystem](https://github.com/maison01006/logsystem) (외부에 있는 컴퓨터의 로그파일을 읽어 클라우드에 있는 Elasticsearch에 전송하는 EKS 시스템) 
     - <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=flat-square&logo=Fluentd&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;&nbsp;
   - [KakaoWork_Chatbot](https://github.com/SWM12-PreProject22/e-power-of-e) (Software Maestro에 관련된 정보를 알려주는 챗봇)
