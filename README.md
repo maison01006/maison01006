@@ -1,7 +1,5 @@
 <h2>💪 skills </h2>
 
----
-
 <h3> LV.MAX </h3>
 <p>
 <img src="https://img.shields.io/badge/사교성-Sociability-3cb371"/>&nbsp;&nbsp;
@@ -35,8 +33,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;&nbsp;
 </p>
-
----
 
 
 ### 📆 history
