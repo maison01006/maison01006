@@ -1,4 +1,5 @@
-<h2>💪 skills </h3>
+<h2>💪 skills </h2>
+
 <h3> LV.MAX </h3>
 <p>
 <img src="https://img.shields.io/badge/사교성-Sociability-3cb371"/>&nbsp;&nbsp;
