@@ -1,5 +1,6 @@
-### 💪 skills
+<h3 align="center">💪 skills </h3>
 
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-e74c3c?style=flat-square&logo=Java&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;&nbsp;
@@ -11,6 +12,7 @@
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=flat-square&logo=Fluentd&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>&nbsp;
+</p>
 
 
 
