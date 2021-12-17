@@ -4,8 +4,9 @@
 <p> Curiosity(호기심)</p>
 
 <h4> LV.4 </h4>
+<p>
 <img src="https://img.shields.io/badge/Java-e74c3c?style=flat-square&logo=Java&logoColor=white"/>&nbsp;&nbsp;
-
+</p>
 <h4> LV.3 </h4>
 <p>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;&nbsp;
@@ -20,13 +21,15 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <h4> LV.2 </h4>
+<p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>&nbsp;&nbsp;
-
+</p>
 <h4> LV.1 </h4>
+<p>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;&nbsp;
-
+</p>
 ---
 
 
