@@ -19,12 +19,12 @@
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=flat-square&logo=Fluentd&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <h3> LV.2 </h3>
 <p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>&nbsp;&nbsp;
 </p>
@@ -59,6 +59,11 @@
 - 2020
   - [ZIPTOON](https://github.com/maison01006/ZIPTOON) (그림체가 비슷한 웹툰 OR 선호도에 의한 추천 서비스)
     - <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;&nbsp;
+  - [WebOCS](https://github.com/maison01006/Web-OCS) (웹으로 만든 OCS)
+    - <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;&nbsp;
+- 2019
+  - [승/하차 예약벨](https://s3.ap-northeast-2.amazonaws.com/public.osj.file.com/iot.pdf) (시각장애인을 위한 버스 승/하차 예약벨)
+    - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;
 <!--
 **maison01006/maison01006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
