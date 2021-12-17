@@ -47,7 +47,8 @@
 ### 🖥 project
 - 2021
   - i-mind (AI를 활용한 부모-아이 놀이영상 분석 기반 심리상담센터용 SaaS 플랫폼)
-  - logsystem (외부에 있는 컴퓨터의 로그파일을 읽어 클라우드에 있는 Elasticsearch에 전송하는 EKS 시스템) <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=flat-square&logo=Fluentd&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;&nbsp;
+  - logsystem (외부에 있는 컴퓨터의 로그파일을 읽어 클라우드에 있는 Elasticsearch에 전송하는 EKS 시스템) 
+    - <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=flat-square&logo=Fluentd&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;&nbsp;
   - Software Maestro에 관련된 정보를 알려주는 챗봇 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   - 맞춤법을 알려주는 퀴즈게임 (헤커톤)<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 - 2020
