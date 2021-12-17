@@ -1,7 +1,7 @@
 <h3 align="center">💪 skills </h3>
 <h4> LV.MAX </h4>
-#### Sociability(사교성)
-#### Curiosity(호기심)
+<p> Sociability(사교성)</p>
+<p> Curiosity(호기심)</p>
 <h4> LV.4 </h4>
 <img src="https://img.shields.io/badge/Java-e74c3c?style=flat-square&logo=Java&logoColor=white"/>&nbsp;&nbsp;
 <h4> LV.3 </h4>
