@@ -29,8 +29,7 @@
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=kafka&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=kafka&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>&nbsp;&nbsp;
 </p>
 <h2></h2>
 
